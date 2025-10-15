@@ -21,6 +21,9 @@ BLOCKCHAIN COURSE
 
 ### Libraries
 
+> This project is a study of the technologies involved in building a blockchain, but in this project it is at an educational level and focuses on how blockchain works.
+> <br /><br />
+
 - <img src="https://img.shields.io/badge/Next-0082C9?style=for-the-badge&logo=Next&logoColor=white" /> — Used by some of the world's largest companies, Next.js enables you to create high-quality web applications with the power of React components.
   <br /><br />
 
@@ -31,6 +34,8 @@ BLOCKCHAIN COURSE
 - [Nodemon](https://www.npmjs.com/package/nodemon)
 
 - [Jest](https://jestjs.io)
+
+- [Crypto-js](https://github.com/brix/crypto-js)
 
 <br />
 
