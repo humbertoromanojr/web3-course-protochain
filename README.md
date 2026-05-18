@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1Z6OqasGLUY7dR52EqYV8wY34ciQ4e1Ja" alt="" width="100%" border="0" />
+  <img src="https://drive.google.com/uc?export=view&id=1jw6FbGq4A-5emirHiu5V0lIrDHNMfTlp" alt="" width="100%" border="0" />
 <br />
 
 Introduction to technologies<br />
@@ -7,7 +7,7 @@ BLOCKCHAIN COURSE
 
 </h1>
 
-> Status from Project: <img src="https://drive.google.com/uc?export=view&id=1Tak2fjuusuwdzNI_rwhPqLHGVLVKNTm1" alt="" width="32" border="0" /> F I N I S H E D <img src="https://drive.google.com/uc?export=view&id=1Tak2fjuusuwdzNI_rwhPqLHGVLVKNTm1" alt="" width="32" border="0" />
+> Status from Project: <img src="https://drive.google.com/uc?export=view&id=1Tak2fjuusuwdzNI_rwhPqLHGVLVKNTm1" alt="" width="32" border="0" /> Under Construction <img src="https://drive.google.com/uc?export=view&id=1Tak2fjuusuwdzNI_rwhPqLHGVLVKNTm1" alt="" width="32" border="0" />
 
 ## Shields
 
